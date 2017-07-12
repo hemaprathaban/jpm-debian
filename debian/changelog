@@ -1,0 +1,5 @@
+jpm.sh (20170712~git99ee06ec96-1) unstable; urgency=medium
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- Hema Prathaban <hemaklnce@gmail.com>  Wed, 12 Jul 2017 03:10:28 -0400

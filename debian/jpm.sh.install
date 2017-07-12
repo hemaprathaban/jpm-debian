@@ -1,0 +1,6 @@
+bin /usr/share/jpm.sh/
+deps /usr/share/jpm.sh/
+example /usr/share/jpm.sh/
+lib /usr/share/jpm.sh/
+COPYING /usr/share/jpm.sh/
+README.markdown /usr/share/jpm.sh/
